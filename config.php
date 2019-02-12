@@ -1,13 +1,13 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyCVkRcSiF0KmLCwmoo4edtw0vnSykCvFcc');
+define('APIKEY', 'AIzaSyBUNAhxoKb5sD7YTGPolJrpnU-N70Fi2j8');
 define('GJ_CODE', 'US');
-define('SITE_NAME', 'y2b');
-define('TITLENAME', 'y2b');
-define('EN2DEKEY', '32123wwerwer323tgfdgds');
-define('EMAIL', '1334347212@qq.com');
+define('SITE_NAME', '菜蟲');
+define('TITLENAME', '菜蟲');
+define('EN2DEKEY', '554564564wwerwer323tgfdgds');
+define('EMAIL', '3085868788@qq.com');
 define('NAME', 'admin');
-define('PASSWORD', 'admin');
+define('PASSWORD', 'ezhome');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
